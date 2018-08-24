@@ -8,7 +8,7 @@ Shell script to install a MOGWAI Masternode on a Linux server running Ubuntu 16.
 I highly recommend to use Ubuntu 16.04 LTS.
 
 Installation
-wget -N https://raw.githubusercontent.com/GalaxyPool/roller-mn/master/roller_install.sh
+wget -N https://raw.githubusercontent.com/digital91/mog_masternode/master/mog.sh
 chmod +x roller_install.sh
 ./roller_install.sh
 If you see your Masternode IP, Masternode PORT and Masternode ID. It mean you completed configuration your server. Check again with option 3 in script. Showing Active in green means masternode service working.
