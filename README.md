@@ -1,3 +1,6 @@
+
+
+
 How to use MOGWAI Masternode script
 
 Shell script to install a MOGWAI Masternode on a Linux server running Ubuntu 16.04. Use it on your own risk.
